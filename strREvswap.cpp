@@ -2,9 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
 string reverseWord(string str);
-
 
 int main() {
 	
@@ -20,10 +18,6 @@ int main() {
 	return 0;
 	
 }
-
-
-// } Driver Code Ends
-
 
 //User function Template for C++
 
